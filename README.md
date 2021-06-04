@@ -12,6 +12,7 @@ As a player, I want matched cards to stay open so I can track which cards have m
 As a player, I want cards that don't match to flip back so that the game can continue.
 As a player, I want a message shown when the game is over so that I know that I have won.
 
+<!--
 ### Bronze
 
 ### Silver
@@ -52,4 +53,4 @@ As a player, I want a limited amount of flips so I can really have to memorize t
 Bronze -
 —— so as a bronze member, I want to be able to match at least a pair of cards, so that I can win a game/ or move on to the next level —less challenging
 Silver - as a silver member, I want to be able to match two pairs of cards and more variety of pairs, so that I can move on to the next level. — mediocre challenging
-Gold - as a gold member, I would want to be able to pick more specific cards/pictures to match, so that the reward would be to put your name on the list for the app. - most challenging
+Gold - as a gold member, I would want to be able to pick more specific cards/pictures to match, so that the reward would be to put your name on the list for the app. - most challenging -->
